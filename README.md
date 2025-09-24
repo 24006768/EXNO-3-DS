@@ -56,14 +56,9 @@ We use this categorical data encoding technique when the features are nominal(do
 
 <img width="896" height="427" alt="image" src="https://github.com/user-attachments/assets/da121b90-e53c-493e-a63d-46efeaee4a39" />
 
-
-
-
-
-
-
-
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Feature Encoding and Transformation process has been successfully performed using the data set.
+
+# SUMMARY:
 
        
