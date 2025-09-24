@@ -60,5 +60,7 @@ We use this categorical data encoding technique when the features are nominal(do
 Feature Encoding and Transformation process has been successfully performed using the data set.
 
 # SUMMARY:
-
+We changed categorical data into numbers using different encoding methods (Ordinal, Label, One-Hot, Binary, Target).
+Then we fixed skewed data using transformations (Log, Sqrt, Reciprocal, Box-Cox, Yeo-Johnson, Quantile).
+Finally, we checked with QQ plots to see if the data became normal.
        
